@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\Desktop\\DAW\\2\\M3.Programacio\\UF6\\recu\\recu.csproj": {}
+    "C:\\Users\\kevin\\Desktop\\m3-uf6-ac2\\recu\\recu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\Desktop\\DAW\\2\\M3.Programacio\\UF6\\recu\\recu.csproj": {
+    "C:\\Users\\kevin\\Desktop\\m3-uf6-ac2\\recu\\recu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\DAW\\2\\M3.Programacio\\UF6\\recu\\recu.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\m3-uf6-ac2\\recu\\recu.csproj",
         "projectName": "recu",
-        "projectPath": "C:\\Users\\kevin\\Desktop\\DAW\\2\\M3.Programacio\\UF6\\recu\\recu.csproj",
+        "projectPath": "C:\\Users\\kevin\\Desktop\\m3-uf6-ac2\\recu\\recu.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\Desktop\\DAW\\2\\M3.Programacio\\UF6\\recu\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\Desktop\\m3-uf6-ac2\\recu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"

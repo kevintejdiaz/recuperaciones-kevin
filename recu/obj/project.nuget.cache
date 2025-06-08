@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pa2R/inRp5XYdTFR1rxPoRie/jN3rlkJpg2KNiCyAdikNNZC6k9y7q04N1TQ75SCcjIaEo5VAXtU6i920UUZ2A==",
+  "dgSpecHash": "SQ4IpseONJ1kdbwn75N/4PsFCFnNNOOtQNmXFeFHVNEJASx7Vqinp3gjzJMFTwSaBQdcpL5W2fMIgAsj6iuBeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevin\\Desktop\\DAW\\2\\M3.Programacio\\UF6\\recu\\recu.csproj",
+  "projectFilePath": "C:\\Users\\kevin\\Desktop\\m3-uf6-ac2\\recu\\recu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.openapi.8.0.0-rc.1.23421.29.nupkg.sha512",
